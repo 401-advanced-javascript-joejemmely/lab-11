@@ -24,6 +24,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 app.use('/', bookRoutes);
+app.use('/', authRouter);
 
 // Catchalls
 app.use(notFound);
