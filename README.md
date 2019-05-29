@@ -28,7 +28,7 @@
 - What assertions were made?
   - POST to /signup to create a new user
   - POST to /signin to login as a user (use basic auth)
-- What assertions need to be / should be made?
+  - Can't access /books & /books:id without being authenticated
 
 #### UML
 
