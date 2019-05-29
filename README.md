@@ -32,4 +32,4 @@
 
 #### UML
 
-![uml](./uml.jpg)
+![uml](./uml-lab-11.jpg)
