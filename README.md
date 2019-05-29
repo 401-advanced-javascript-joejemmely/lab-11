@@ -11,7 +11,7 @@
 
 #### Documentation
 
-- [jsdoc](http://xyz.com) (Server assignments)
+- [jsdoc](https://lab-11-jj.herokuapp.com/docs/) (Server assignments)
 
 ### Setup
 
