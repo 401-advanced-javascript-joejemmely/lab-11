@@ -6,28 +6,12 @@
 
 ### Links and Resources
 
-- [submission PR](http://xyz.com)
-- [travis](http://xyz.com)
-- [back-end](http://xyz.com) (when applicable)
-- [front-end](http://xyz.com) (when applicable)
+- [submission PR](https://github.com/401-advanced-javascript-joejemmely/lab-11/pull/1)
+- [travis](https://travis-ci.com/401-advanced-javascript-joejemmely/lab-11)
 
 #### Documentation
 
 - [jsdoc](http://xyz.com) (Server assignments)
-
-### Modules
-
-#### `modulename.js`
-
-##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-
-Usage Notes or examples
-
-###### `bar(array) -> array`
-
-Usage Notes or examples
 
 ### Setup
 
@@ -48,4 +32,4 @@ Usage Notes or examples
 
 #### UML
 
-Link to an image of the UML for your application and response to events
+![uml](./uml.jpg)
